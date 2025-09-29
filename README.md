@@ -1,11 +1,17 @@
 # 背景去除器 🎨✂️
 
-一个功能强大的在线背景去除工具，支持多种算法和 AI 模型，帮助您轻松制作专业的透明背景图片。
+一个功能不强大的在线背景去除工具，支持多种算法和 AI 模型，帮助您轻松制作专业的透明背景图片。
+
+qoder 做的，效果不理想，还不如 Mac 自带的。暂时放着，等有空再优化。
 
 [![React](https://img.shields.io/badge/React-19.1.1-blue.svg)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-7.1.7-646CFF.svg)](https://vitejs.dev/)
 [![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-4.22.0-FF6F00.svg)](https://www.tensorflow.org/js)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+## 📷 应用预览
+
+![应用截图](cutpic.png)
 
 ## 🌟 功能特色
 
